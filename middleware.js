@@ -1,7 +1,7 @@
 'use strict';
 
 const base64 = require('base-64');
-const users = require('./users.js');
+const users = require('./users.js/index.js.js');
 
 module.exports = (req, res, next) => {
 
